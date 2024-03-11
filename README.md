@@ -1,5 +1,5 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Currently the class is being taught by Ernesto Quevado Caballero
 
-Mark Fuller
+Logan Rigdon
